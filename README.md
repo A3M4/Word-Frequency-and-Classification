@@ -1,5 +1,5 @@
 # Parse text and export a CSV file(英文分词并统计词频)
-**Tag **|**Meaning**
+**Tag**|**Meaning**
 :-----:|:-----:
 CC |Coordinating conjunction
 CD |Cardinal number
