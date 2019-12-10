@@ -1,7 +1,7 @@
 # Parse JSON and export a CSV file(英文分词并统计词频)
 ## INPUT
 <img src="https://i.ibb.co/bW9NP2Y/Screenshot-7.png" alt="avatar" >
-## RESULT
+## RESULT 
 <img src="https://i.ibb.co/JRmwKv5/Screenshot-8.png" alt="avatar">
 ## COMPARISON TABLE
 **Tag**|**Meaning**
