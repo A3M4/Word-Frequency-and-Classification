@@ -1,4 +1,4 @@
-# Parse text and export a CSV file(英文分词并统计词频)
+# Parse JSON and export a CSV file(英文分词并统计词频)
 **Tag**|**Meaning**
 :-----:|:-----:
 CC |Coordinating conjunction
